@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SoundRecorderTestApp/ViewController.swift"
+            timestampString = "528284324.06983"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SoundRecorderTestApp.ViewController.player.getter : SoundRecorderTestApp.SoundPlayer"
+                  moduleName = "SoundRecorderTestApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/paksn/Desktop/SoundRecorderTestApp/SoundRecorderTestApp/ViewController.swift"
+                  timestampString = "528227521.937842"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "63">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SoundRecorderTestApp.ViewController.init (nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; SoundRecorderTestApp.ViewController"
+                  moduleName = "SoundRecorderTestApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/paksn/Desktop/SoundRecorderTestApp/SoundRecorderTestApp/ViewController.swift"
+                  timestampString = "528227521.939878"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "282">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SoundRecorderTestApp.ViewController.init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;SoundRecorderTestApp.ViewController&gt;"
+                  moduleName = "SoundRecorderTestApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/paksn/Desktop/SoundRecorderTestApp/SoundRecorderTestApp/ViewController.swift"
+                  timestampString = "528227521.941271"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "206">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pods/EZAudio/EZAudio/EZAudioPlotGL.m"
+            timestampString = "528232851.206675"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "276"
+            endingLineNumber = "276"
+            landmarkName = "-updateBuffer:withBufferSize:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SoundRecorderTestApp/SoundRecorder.swift"
+            timestampString = "528287160.6326"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "71"
+            endingLineNumber = "71"
+            landmarkName = "microphone(_:hasAudioReceived:withBufferSize:withNumberOfChannels:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
